@@ -1,17 +1,18 @@
-README
+Project for Getting and Cleaning Data
 ========================================================
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages (click the **Help** toolbar button for more details on using R Markdown).
+Author: Altiéris Marcelino Peixoto (https://github.com/alterway/GettingAndCleaningData_Project)
 
-When you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r}
-summary(cars)
-```
+This document explains how all of the scripts work and how they are connected.  
+-------------------------
 
-You can also embed plots, for example:
+1. run_analisys.R is a script that executes the ETL transformation on UCI HAR Dataset dowloaded from 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+  This script generate a Tidy dataset called HumanActivityRecognitionUsingSmartphones.txt in the working directory
+  according with the Getting and Cleaning Data course.
+  
+2. The codebook.md explaing step by step the transformations executed in the run_analisys.R script and explains all variables names created on 
+HumanActivityRecognitionUsingSmartphones.txt 
 
-```{r fig.width=7, fig.height=6}
-plot(cars)
-```
 
