@@ -1,8 +1,11 @@
-README
+Project for Getting and Cleaning Data
 ========================================================
 
-This document explains how all of the scripts work and how they are connected.  
--------------------------
+Author: Altiéris Marcelino Peixoto (https://github.com/alterway/GettingAndCleaningData_Project)
+--------------
+
+**This document explains how all of the scripts work and how they are connected.**  
+
 
 1. run_analisys.R is a script that executes the ETL transformation on UCI HAR Dataset dowloaded from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
