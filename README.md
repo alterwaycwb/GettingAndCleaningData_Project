@@ -1,7 +1,7 @@
 Project for Getting and Cleaning Data
 ========================================================
 
-Author: Altiéris Marcelino Peixoto (https://github.com/alterway/GettingAndCleaningData_Project)
+Author: Altiéris Marcelino Peixoto
 --------------
 
 **This document explains how all of the scripts work and how they are connected.**  
